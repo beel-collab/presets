@@ -3,16 +3,7 @@ title: se-technical-writer.agent
 description: >-
   Technical writing specialist for creating developer documentation, technical
   blogs, tutorials, and educational content
-tags:
-  - software-engineering-team
-  - team
-  - enterprise
-  - security
-  - devops
-  - ux
-  - architecture
-  - product
-  - ai-ethics
+tags: []
 tools:
   - codebase
   - edit/editFiles

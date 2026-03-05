@@ -3,13 +3,7 @@ title: rug-orchestrator.agent
 description: >-
   Pure orchestration agent that decomposes requests, delegates all work to
   subagents, validates outcomes, and repeats until complete.
-tags:
-  - rug-agentic-workflow
-  - agentic-workflow
-  - orchestration
-  - subagents
-  - software-engineering
-  - qa
+tags: []
 tools:
   - vscode
   - execute

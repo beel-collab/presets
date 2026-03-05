@@ -1,16 +1,7 @@
 ---
 title: postgresql-dba.agent
 description: Work with PostgreSQL databases using the PostgreSQL extension.
-tags:
-  - database-data-management
-  - database
-  - sql
-  - postgresql
-  - sql-server
-  - dba
-  - optimization
-  - queries
-  - data-management
+tags: []
 tools:
   - codebase
   - edit/editFiles

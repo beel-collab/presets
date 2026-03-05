@@ -3,18 +3,7 @@ title: octopus-deploy-release-notes-mcp.agent
 description: >-
   Generate release notes for a release in Octopus Deploy. The tools for this MCP
   server provide access to the Octopus Deploy APIs.
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools: []
 author:
   name: Community

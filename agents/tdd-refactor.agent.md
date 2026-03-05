@@ -3,16 +3,7 @@ title: tdd-refactor.agent
 description: >-
   Improve code quality, apply security best practices, and enhance design whilst
   maintaining green tests and GitHub issue compliance.
-tags:
-  - testing-automation
-  - testing
-  - tdd
-  - automation
-  - unit-tests
-  - integration
-  - playwright
-  - jest
-  - nunit
+tags: []
 tools:
   - github
   - findTestFiles

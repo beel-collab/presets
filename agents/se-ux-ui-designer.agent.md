@@ -3,16 +3,7 @@ title: se-ux-ui-designer.agent
 description: >-
   Jobs-to-be-Done analysis, user journey mapping, and UX research artifacts for
   Figma and design workflows
-tags:
-  - software-engineering-team
-  - team
-  - enterprise
-  - security
-  - devops
-  - ux
-  - architecture
-  - product
-  - ai-ethics
+tags: []
 tools:
   - codebase
   - edit/editFiles

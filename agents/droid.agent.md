@@ -4,18 +4,7 @@ description: >-
   Provides installation guidance, usage examples, and automation patterns for
   the Droid CLI, with emphasis on droid exec for CI/CD and non-interactive
   automation
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools:
   - read
   - search

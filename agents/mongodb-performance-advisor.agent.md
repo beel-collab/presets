@@ -4,18 +4,7 @@ description: >-
   Analyze MongoDB database performance, offer query and index optimization
   insights and provide actionable recommendations to improve overall usage of
   the database.
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools: []
 author:
   name: Community

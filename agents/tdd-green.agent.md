@@ -3,16 +3,7 @@ title: tdd-green.agent
 description: >-
   Implement minimal code to satisfy GitHub issue requirements and make failing
   tests pass without over-engineering.
-tags:
-  - testing-automation
-  - testing
-  - tdd
-  - automation
-  - unit-tests
-  - integration
-  - playwright
-  - jest
-  - nunit
+tags: []
 tools:
   - github
   - findTestFiles

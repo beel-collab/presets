@@ -3,18 +3,7 @@ title: neo4j-docker-client-generator.agent
 description: >-
   AI agent that generates simple, high-quality Python Neo4j client libraries
   from GitHub issues with proper best practices
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools:
   - read
   - edit

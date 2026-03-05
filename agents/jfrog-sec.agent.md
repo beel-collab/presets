@@ -4,18 +4,7 @@ description: >-
   The dedicated Application Security agent for automated security remediation.
   Verifies package and version compliance, and suggests vulnerability fixes
   using JFrog security intelligence.
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools: []
 author:
   name: Community

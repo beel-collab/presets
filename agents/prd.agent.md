@@ -4,16 +4,7 @@ description: >-
   Generate a comprehensive Product Requirements Document (PRD) in Markdown,
   detailing user stories, acceptance criteria, technical considerations, and
   metrics. Optionally create GitHub issues upon user confirmation.
-tags:
-  - project-planning
-  - planning
-  - project-management
-  - epic
-  - feature
-  - implementation
-  - task
-  - architecture
-  - technical-spike
+tags: []
 tools:
   - codebase
   - edit/editFiles

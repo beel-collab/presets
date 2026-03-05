@@ -3,13 +3,7 @@ title: cast-imaging-impact-analysis.agent
 description: >-
   Specialized agent for comprehensive change impact assessment and risk analysis
   in software systems using CAST Imaging
-tags:
-  - cast-imaging
-  - software-analysis
-  - architecture
-  - quality
-  - impact-analysis
-  - devops
+tags: []
 tools: []
 author:
   name: Community

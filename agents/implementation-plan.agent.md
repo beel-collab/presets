@@ -1,16 +1,7 @@
 ---
 title: implementation-plan.agent
 description: Generate an implementation plan for new features or refactoring existing code.
-tags:
-  - project-planning
-  - planning
-  - project-management
-  - epic
-  - feature
-  - implementation
-  - task
-  - architecture
-  - technical-spike
+tags: []
 tools:
   - search/codebase
   - search/usages

@@ -3,16 +3,7 @@ title: tdd-red.agent
 description: >-
   Guide test-first development by writing failing tests that describe desired
   behaviour from GitHub issue context before implementation exists.
-tags:
-  - testing-automation
-  - testing
-  - tdd
-  - automation
-  - unit-tests
-  - integration
-  - playwright
-  - jest
-  - nunit
+tags: []
 tools:
   - github
   - findTestFiles

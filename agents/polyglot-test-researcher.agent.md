@@ -4,18 +4,7 @@ description: >-
   Analyzes codebases to understand structure, testing patterns, and testability.
   Identifies source files, existing tests, build commands, and testing
   framework. Works with any language.
-tags:
-  - polyglot-test-agent
-  - testing
-  - unit-tests
-  - polyglot
-  - test-generation
-  - multi-agent
-  - tdd
-  - csharp
-  - typescript
-  - python
-  - go
+tags: []
 tools: []
 author:
   name: Community

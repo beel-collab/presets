@@ -3,16 +3,7 @@ title: se-product-manager-advisor.agent
 description: >-
   Product management guidance for creating GitHub issues, aligning business
   value with user needs, and making data-driven product decisions
-tags:
-  - software-engineering-team
-  - team
-  - enterprise
-  - security
-  - devops
-  - ux
-  - architecture
-  - product
-  - ai-ethics
+tags: []
 tools:
   - codebase
   - githubRepo

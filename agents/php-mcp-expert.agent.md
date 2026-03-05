@@ -3,15 +3,7 @@ title: php-mcp-expert.agent
 description: >-
   Expert assistant for PHP MCP server development using the official PHP SDK
   with attribute-based discovery
-tags:
-  - php-mcp-development
-  - php
-  - mcp
-  - model-context-protocol
-  - server-development
-  - sdk
-  - attributes
-  - composer
+tags: []
 tools: []
 author:
   name: Community

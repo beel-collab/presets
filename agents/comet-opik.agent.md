@@ -4,18 +4,7 @@ description: >-
   Unified Comet Opik agent for instrumenting LLM apps, managing
   prompts/projects, auditing prompts, and investigating traces/metrics via the
   latest Opik MCP server.
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools:
   - read
   - search

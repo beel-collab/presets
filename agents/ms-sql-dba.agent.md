@@ -1,16 +1,7 @@
 ---
 title: ms-sql-dba.agent
 description: Work with Microsoft SQL Server databases using the MS SQL extension.
-tags:
-  - database-data-management
-  - database
-  - sql
-  - postgresql
-  - sql-server
-  - dba
-  - optimization
-  - queries
-  - data-management
+tags: []
 tools:
   - search/codebase
   - edit/editFiles

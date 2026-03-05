@@ -3,26 +3,23 @@ title: terraform-azure-implement.agent
 description: >-
   Act as an Azure Terraform Infrastructure as Code coding specialist that
   creates and reviews Terraform for Azure resources.
-tags:
-  - azure-cloud-development
-  - azure
-  - cloud
-  - infrastructure
-  - bicep
-  - terraform
-  - serverless
-  - architecture
-  - devops
+tags: []
 tools:
+  - execute/getTerminalOutput
+  - execute/awaitTerminal
+  - execute/runInTerminal
+  - read/problems
+  - read/readFile
+  - read/terminalSelection
+  - read/terminalLastCommand
+  - agent
+  - edit/createDirectory
+  - edit/createFile
   - edit/editFiles
   - search
-  - runCommands
-  - fetch
-  - todos
-  - azureterraformbestpractices
-  - documentation
-  - get_bestpractices
-  - microsoft-docs
+  - web/fetch
+  - azure-mcp/*
+  - todo
 author:
   name: Community
   url: 'https://github.com/github/awesome-copilot'

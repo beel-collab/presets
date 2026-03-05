@@ -5,18 +5,7 @@ description: >
   safely automate feature flag cleanup workflows. This agent determines removal
   readiness, identifies the correct forward value, and creates PRs that preserve
   production behavior while removing obsolete flags and updating stale defaults.
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools:
   - '*'
 author:

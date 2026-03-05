@@ -3,27 +3,7 @@ title: openapi-to-application.agent
 description: >-
   Expert assistant for generating working applications from OpenAPI
   specifications
-tags:
-  - openapi-to-application-csharp-dotnet
-  - openapi
-  - code-generation
-  - api
-  - csharp
-  - dotnet
-  - aspnet
-  - openapi-to-application-go
-  - go
-  - golang
-  - openapi-to-application-java-spring-boot
-  - java
-  - spring-boot
-  - openapi-to-application-nodejs-nestjs
-  - nodejs
-  - typescript
-  - nestjs
-  - openapi-to-application-python-fastapi
-  - python
-  - fastapi
+tags: []
 tools:
   - codebase
   - edit/editFiles

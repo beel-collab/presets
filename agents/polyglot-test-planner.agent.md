@@ -3,18 +3,7 @@ title: polyglot-test-planner.agent
 description: >-
   Creates structured test implementation plans from research findings. Organizes
   tests into phases by priority and complexity. Works with any language.
-tags:
-  - polyglot-test-agent
-  - testing
-  - unit-tests
-  - polyglot
-  - test-generation
-  - multi-agent
-  - tdd
-  - csharp
-  - typescript
-  - python
-  - go
+tags: []
 tools: []
 author:
   name: Community

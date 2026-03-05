@@ -3,19 +3,7 @@ title: azure-principal-architect.agent
 description: >-
   Provide expert Azure Principal Architect guidance using Azure Well-Architected
   Framework principles and Microsoft best practices.
-tags:
-  - azure-cloud-development
-  - azure
-  - cloud
-  - infrastructure
-  - bicep
-  - terraform
-  - serverless
-  - architecture
-  - devops
-  - devops-oncall
-  - incident-response
-  - oncall
+tags: []
 tools:
   - changes
   - codebase

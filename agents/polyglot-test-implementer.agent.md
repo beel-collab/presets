@@ -3,18 +3,7 @@ title: polyglot-test-implementer.agent
 description: >-
   Implements a single phase from the test plan. Writes test files and verifies
   they compile and pass. Calls builder, tester, and fixer agents as needed.
-tags:
-  - polyglot-test-agent
-  - testing
-  - unit-tests
-  - polyglot
-  - test-generation
-  - multi-agent
-  - tdd
-  - csharp
-  - typescript
-  - python
-  - go
+tags: []
 tools: []
 author:
   name: Community

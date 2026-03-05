@@ -3,15 +3,7 @@ title: ruby-mcp-expert.agent
 description: >-
   Expert assistance for building Model Context Protocol servers in Ruby using
   the official MCP Ruby SDK gem with Rails integration.
-tags:
-  - ruby-mcp-development
-  - ruby
-  - mcp
-  - model-context-protocol
-  - server-development
-  - sdk
-  - rails
-  - gem
+tags: []
 tools: []
 author:
   name: Community

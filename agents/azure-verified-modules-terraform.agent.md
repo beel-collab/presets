@@ -3,16 +3,7 @@ title: azure-verified-modules-terraform.agent
 description: >-
   Create, update, or review Azure IaC in Terraform using Azure Verified Modules
   (AVM).
-tags:
-  - azure-cloud-development
-  - azure
-  - cloud
-  - infrastructure
-  - bicep
-  - terraform
-  - serverless
-  - architecture
-  - devops
+tags: []
 tools:
   - changes
   - codebase

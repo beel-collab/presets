@@ -3,16 +3,7 @@ title: se-system-architecture-reviewer.agent
 description: >-
   System architecture review specialist with Well-Architected frameworks, design
   validation, and scalability analysis for AI and distributed systems
-tags:
-  - software-engineering-team
-  - team
-  - enterprise
-  - security
-  - devops
-  - ux
-  - architecture
-  - product
-  - ai-ethics
+tags: []
 tools:
   - codebase
   - edit/editFiles

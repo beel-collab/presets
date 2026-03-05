@@ -1,16 +1,7 @@
 ---
 title: playwright-tester.agent
 description: Testing mode for Playwright tests
-tags:
-  - testing-automation
-  - testing
-  - tdd
-  - automation
-  - unit-tests
-  - integration
-  - playwright
-  - jest
-  - nunit
+tags: []
 tools:
   - changes
   - codebase

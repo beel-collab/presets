@@ -3,18 +3,7 @@ title: polyglot-test-linter.agent
 description: >-
   Runs code formatting/linting for any language. Discovers lint command from
   project files if not specified.
-tags:
-  - polyglot-test-agent
-  - testing
-  - unit-tests
-  - polyglot
-  - test-generation
-  - multi-agent
-  - tdd
-  - csharp
-  - typescript
-  - python
-  - go
+tags: []
 tools: []
 author:
   name: Community

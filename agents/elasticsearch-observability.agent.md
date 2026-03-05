@@ -3,18 +3,7 @@ title: elasticsearch-observability.agent
 description: >-
   Our expert AI assistant for debugging code (O11y), optimizing vector search
   (RAG), and remediating security threats using live Elastic data.
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools:
   - read
   - edit

@@ -7,18 +7,7 @@ description: >-
   versions, manages private registries, automates variable sets, and
   orchestrates infrastructure deployments with proper validation and security
   practices.
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools:
   - read
   - edit

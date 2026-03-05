@@ -3,13 +3,7 @@ title: qa-subagent.agent
 description: >-
   Meticulous QA subagent for test planning, bug hunting, edge-case analysis, and
   implementation verification.
-tags:
-  - rug-agentic-workflow
-  - agentic-workflow
-  - orchestration
-  - subagents
-  - software-engineering
-  - qa
+tags: []
 tools:
   - vscode
   - execute

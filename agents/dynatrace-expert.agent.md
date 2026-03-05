@@ -8,18 +8,7 @@ description: >-
   autonomously analysing traces, logs, and Dynatrace findings. This enables
   targeted and precise remediation of identified issues directly within the
   repository.
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools: []
 author:
   name: Community

@@ -3,13 +3,7 @@ title: cast-imaging-software-discovery.agent
 description: >-
   Specialized agent for comprehensive software application discovery and
   architectural mapping through static code analysis using CAST Imaging
-tags:
-  - cast-imaging
-  - software-analysis
-  - architecture
-  - quality
-  - impact-analysis
-  - devops
+tags: []
 tools: []
 author:
   name: Community

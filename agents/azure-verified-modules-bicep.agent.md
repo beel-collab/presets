@@ -3,16 +3,7 @@ title: azure-verified-modules-bicep.agent
 description: >-
   Create, update, or review Azure IaC in Bicep using Azure Verified Modules
   (AVM).
-tags:
-  - azure-cloud-development
-  - azure
-  - cloud
-  - infrastructure
-  - bicep
-  - terraform
-  - serverless
-  - architecture
-  - devops
+tags: []
 tools:
   - changes
   - codebase

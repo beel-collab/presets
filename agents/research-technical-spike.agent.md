@@ -3,19 +3,7 @@ title: research-technical-spike.agent
 description: >-
   Systematically research and validate technical spike documents through
   exhaustive investigation and controlled experimentation.
-tags:
-  - project-planning
-  - planning
-  - project-management
-  - epic
-  - feature
-  - implementation
-  - task
-  - architecture
-  - technical-spike
-  - assumption-testing
-  - validation
-  - research
+tags: []
 tools:
   - vscode
   - execute

@@ -4,16 +4,7 @@ description: >-
   Provide expert Azure SaaS Architect guidance focusing on multitenant
   applications using Azure Well-Architected SaaS principles and Microsoft best
   practices.
-tags:
-  - azure-cloud-development
-  - azure
-  - cloud
-  - infrastructure
-  - bicep
-  - terraform
-  - serverless
-  - architecture
-  - devops
+tags: []
 tools:
   - changes
   - search/codebase

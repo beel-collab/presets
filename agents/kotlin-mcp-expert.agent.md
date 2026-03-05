@@ -3,14 +3,7 @@ title: kotlin-mcp-expert.agent
 description: >-
   Expert assistant for building Model Context Protocol (MCP) servers in Kotlin
   using the official SDK.
-tags:
-  - kotlin-mcp-development
-  - kotlin
-  - mcp
-  - model-context-protocol
-  - kotlin-multiplatform
-  - server-development
-  - ktor
+tags: []
 tools: []
 author:
   name: Community

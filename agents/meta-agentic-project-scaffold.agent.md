@@ -3,13 +3,7 @@ title: meta-agentic-project-scaffold.agent
 description: >-
   Meta agentic project creation assistant to help users create and manage
   project workflows effectively.
-tags:
-  - awesome-copilot
-  - github-copilot
-  - discovery
-  - meta
-  - prompt-engineering
-  - agents
+tags: []
 tools:
   - changes
   - codebase

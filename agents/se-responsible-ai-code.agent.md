@@ -4,16 +4,7 @@ description: >-
   Responsible AI specialist ensuring AI works for everyone through bias
   prevention, accessibility compliance, ethical development, and inclusive
   design
-tags:
-  - software-engineering-team
-  - team
-  - enterprise
-  - security
-  - devops
-  - ux
-  - architecture
-  - product
-  - ai-ethics
+tags: []
 tools:
   - codebase
   - edit/editFiles

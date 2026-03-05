@@ -3,16 +3,7 @@ title: power-bi-dax-expert.agent
 description: >-
   Expert Power BI DAX guidance using Microsoft best practices for performance,
   readability, and maintainability of DAX formulas and calculations.
-tags:
-  - power-bi-development
-  - power-bi
-  - dax
-  - data-modeling
-  - performance
-  - visualization
-  - security
-  - devops
-  - business-intelligence
+tags: []
 tools:
   - changes
   - search/codebase

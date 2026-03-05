@@ -3,18 +3,7 @@ title: polyglot-test-fixer.agent
 description: >-
   Fixes compilation errors in source or test files. Analyzes error messages and
   applies corrections.
-tags:
-  - polyglot-test-agent
-  - testing
-  - unit-tests
-  - polyglot
-  - test-generation
-  - multi-agent
-  - tdd
-  - csharp
-  - typescript
-  - python
-  - go
+tags: []
 tools: []
 author:
   name: Community

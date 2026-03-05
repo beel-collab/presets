@@ -3,18 +3,7 @@ title: pagerduty-incident-responder.agent
 description: >-
   Responds to PagerDuty incidents by analyzing incident context, identifying
   recent code changes, and suggesting fixes via GitHub PRs.
-tags:
-  - partners
-  - devops
-  - security
-  - database
-  - cloud
-  - infrastructure
-  - observability
-  - feature-flags
-  - cicd
-  - migration
-  - performance
+tags: []
 tools:
   - read
   - search

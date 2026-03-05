@@ -3,13 +3,7 @@ title: context-architect.agent
 description: >-
   An agent that helps plan and execute multi-file changes by identifying
   relevant context and dependencies
-tags:
-  - context-engineering
-  - context
-  - productivity
-  - refactoring
-  - best-practices
-  - architecture
+tags: []
 tools:
   - codebase
   - terminalCommand

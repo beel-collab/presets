@@ -3,13 +3,7 @@ title: cast-imaging-structural-quality-advisor.agent
 description: >-
   Specialized agent for identifying, analyzing, and providing remediation
   guidance for code quality issues using CAST Imaging
-tags:
-  - cast-imaging
-  - software-analysis
-  - architecture
-  - quality
-  - impact-analysis
-  - devops
+tags: []
 tools: []
 author:
   name: Community

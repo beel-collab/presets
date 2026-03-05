@@ -4,13 +4,7 @@ description: >-
   Expert in Power Platform custom connector development with MCP integration for
   Copilot Studio - comprehensive knowledge of schemas, protocols, and
   integration patterns
-tags:
-  - power-platform-mcp-connector-development
-  - power-platform
-  - mcp
-  - copilot-studio
-  - custom-connector
-  - json-rpc
+tags: []
 tools: []
 author:
   name: Community

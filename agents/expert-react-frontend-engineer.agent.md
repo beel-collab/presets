@@ -3,17 +3,7 @@ title: expert-react-frontend-engineer.agent
 description: >-
   Expert React 19.2 frontend engineer specializing in modern hooks, Server
   Components, Actions, TypeScript, and performance optimization
-tags:
-  - frontend-web-dev
-  - frontend
-  - web
-  - react
-  - typescript
-  - javascript
-  - css
-  - html
-  - angular
-  - vue
+tags: []
 tools:
   - changes
   - codebase

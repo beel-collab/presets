@@ -3,19 +3,7 @@ title: task-planner.agent
 description: >-
   Task planner for creating actionable implementation plans - Brought to you by
   microsoft/edge-ai
-tags:
-  - edge-ai-tasks
-  - architecture
-  - planning
-  - research
-  - tasks
-  - implementation
-  - project-planning
-  - project-management
-  - epic
-  - feature
-  - task
-  - technical-spike
+tags: []
 tools:
   - changes
   - search/codebase

@@ -3,13 +3,7 @@ title: swe-subagent.agent
 description: >-
   Senior software engineer subagent for implementation tasks: feature
   development, debugging, refactoring, and testing.
-tags:
-  - rug-agentic-workflow
-  - agentic-workflow
-  - orchestration
-  - subagents
-  - software-engineering
-  - qa
+tags: []
 tools:
   - vscode
   - execute

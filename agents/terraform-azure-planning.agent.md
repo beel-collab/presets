@@ -3,16 +3,7 @@ title: terraform-azure-planning.agent
 description: >-
   Act as implementation planner for your Azure Terraform Infrastructure as Code
   task.
-tags:
-  - azure-cloud-development
-  - azure
-  - cloud
-  - infrastructure
-  - bicep
-  - terraform
-  - serverless
-  - architecture
-  - devops
+tags: []
 tools:
   - edit/editFiles
   - fetch

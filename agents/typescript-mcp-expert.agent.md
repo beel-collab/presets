@@ -3,13 +3,7 @@ title: typescript-mcp-expert.agent
 description: >-
   Expert assistant for developing Model Context Protocol (MCP) servers in
   TypeScript
-tags:
-  - typescript-mcp-development
-  - typescript
-  - mcp
-  - model-context-protocol
-  - nodejs
-  - server-development
+tags: []
 tools: []
 author:
   name: Community

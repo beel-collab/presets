@@ -3,18 +3,7 @@ title: polyglot-test-tester.agent
 description: >-
   Runs test commands for any language and reports results. Discovers test
   command from project files if not specified.
-tags:
-  - polyglot-test-agent
-  - testing
-  - unit-tests
-  - polyglot
-  - test-generation
-  - multi-agent
-  - tdd
-  - csharp
-  - typescript
-  - python
-  - go
+tags: []
 tools: []
 author:
   name: Community

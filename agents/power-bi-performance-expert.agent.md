@@ -4,16 +4,7 @@ description: >-
   Expert Power BI performance optimization guidance for troubleshooting,
   monitoring, and improving the performance of Power BI models, reports, and
   queries.
-tags:
-  - power-bi-development
-  - power-bi
-  - dax
-  - data-modeling
-  - performance
-  - visualization
-  - security
-  - devops
-  - business-intelligence
+tags: []
 tools:
   - changes
   - codebase

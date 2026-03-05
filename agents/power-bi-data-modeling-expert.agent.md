@@ -4,16 +4,7 @@ description: >-
   Expert Power BI data modeling guidance using star schema principles,
   relationship design, and Microsoft best practices for optimal model
   performance and usability.
-tags:
-  - power-bi-development
-  - power-bi
-  - dax
-  - data-modeling
-  - performance
-  - visualization
-  - security
-  - devops
-  - business-intelligence
+tags: []
 tools:
   - changes
   - search/codebase

@@ -3,15 +3,7 @@ title: power-platform-expert.agent
 description: >-
   Power Platform expert providing guidance on Code Apps, canvas apps, Dataverse,
   connectors, and Power Platform best practices
-tags:
-  - power-apps-code-apps
-  - power-apps
-  - power-platform
-  - typescript
-  - react
-  - code-apps
-  - dataverse
-  - connectors
+tags: []
 tools: []
 author:
   name: Community

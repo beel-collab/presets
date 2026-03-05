@@ -4,16 +4,7 @@ description: >-
   Expert Power BI report design and visualization guidance using Microsoft best
   practices for creating effective, performant, and user-friendly reports and
   dashboards.
-tags:
-  - power-bi-development
-  - power-bi
-  - dax
-  - data-modeling
-  - performance
-  - visualization
-  - security
-  - devops
-  - business-intelligence
+tags: []
 tools:
   - changes
   - search/codebase

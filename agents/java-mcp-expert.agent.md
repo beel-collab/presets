@@ -3,16 +3,7 @@ title: java-mcp-expert.agent
 description: >-
   Expert assistance for building Model Context Protocol servers in Java using
   reactive streams, the official MCP Java SDK, and Spring Boot integration.
-tags:
-  - java-mcp-development
-  - java
-  - mcp
-  - model-context-protocol
-  - server-development
-  - sdk
-  - reactive-streams
-  - spring-boot
-  - reactor
+tags: []
 tools: []
 author:
   name: Community
