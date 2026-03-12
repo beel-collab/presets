@@ -210,7 +210,7 @@ Use these common tags to help users find your contribution:
 
 ## Questions or Suggestions?
 
-If you have questions about contributing or suggestions for improving the contribution process, please [open an issue](https://github.com/github/awesome-copilot/issues/new) or contact us via our main repository.
+If you have questions about contributing or suggestions for improving the contribution process, please [open an issue](https://github.com/beel-collab/presets.dev/issues/new) or contact us via our main repository.
 
 ## License
 
