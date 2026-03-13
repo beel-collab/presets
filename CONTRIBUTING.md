@@ -11,7 +11,7 @@ We welcome contributions directly to this repository!
 
 Agents are chat mode configurations that transform GitHub Copilot into a domain-specific assistant.
 
-1. **Find or create the technology directory**: e.g., `react/`
+1. **Find or create the technology directory**: e.g., `react/`. If the relevant technology directory doesn't exist, you can create a new one.
 2. **Create your agent file**: Add a new `.agent.md` file directly in the `[technology]/` directory
 3. **Follow the naming convention**: Use descriptive, lowercase filenames with hyphens (e.g., `expert-react-frontend-engineer.agent.md`)
 4. **Include frontmatter**: Add metadata at the top of your file
@@ -57,7 +57,7 @@ You are an expert [domain/role] with deep knowledge in [specific areas].
 
 Instructions help customize GitHub Copilot's behavior for specific technologies, coding practices, or domains.
 
-1. **Find or create the technology directory**: e.g., `python/`
+1. **Find or create the technology directory**: e.g., `python/`. If the relevant technology directory doesn't exist, you can create a new one.
 2. **Create your instruction file**: Add a new `.instructions.md` file directly in the `[technology]/` directory
 3. **Follow the naming convention**: Use descriptive, lowercase filenames with hyphens (e.g., `python-django.instructions.md`)
 4. **Structure your content**: Start with a clear heading and organize your instructions logically
@@ -98,7 +98,7 @@ Include code examples where helpful.
 
 Skills are capabilities that allow GitHub Copilot to perform specific tasks, often contacting external services or managing complex workflows.
 
-1. **Find or create the technology directory**: e.g., `github-project-mgmt/`
+1. **Find or create the technology directory**: e.g., `github-project-mgmt/`. If the relevant technology directory doesn't exist, you can create a new one.
 2. **Create your skill directory**: Create a new directory directly in `[technology]/` with your skill name (e.g., `github-issues`).
 3. **Add SKILL.md**: Create a `SKILL.md` file inside that directory. This is the main entry point.
 4. **Include frontmatter**: Add metadata at the top of `SKILL.md`.
