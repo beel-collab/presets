@@ -1,4 +1,3 @@
-# presets.dev
 
 This repository is the central hub for community-contributed data that powers [presets.dev](https://presets.dev). It provides high-quality, specialized configurations designed to extend and customize the capabilities of GitHub Copilot for specific development workflows.
 
