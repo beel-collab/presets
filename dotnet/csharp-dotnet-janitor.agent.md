@@ -5,28 +5,28 @@ description: >-
   tech debt remediation.
 tags: []
 tools:
-  - changes
-  - codebase
+  - vscode/extensions
+  - vscode/getProjectSetupInfo
+  - vscode/installExtension
+  - vscode/newWorkspace
+  - vscode/runCommand
+  - vscode/vscodeAPI
+  - execute/getTerminalOutput
+  - execute/runTask
+  - execute/createAndRunTask
+  - execute/runTests
+  - execute/runInTerminal
+  - execute/testFailure
+  - read/terminalSelection
+  - read/terminalLastCommand
+  - read/getTaskOutput
+  - read/problems
+  - read/readFile
+  - github/*
+  - microsoft.docs.mcp/*
   - edit/editFiles
-  - extensions
-  - web/fetch
-  - findTestFiles
-  - githubRepo
-  - new
-  - openSimpleBrowser
-  - problems
-  - runCommands
-  - runTasks
-  - runTests
   - search
-  - searchResults
-  - terminalLastCommand
-  - terminalSelection
-  - testFailure
-  - usages
-  - vscodeAPI
-  - microsoft.docs.mcp
-  - github
+  - web
 author:
   name: Community
   url: 'https://github.com/github/awesome-copilot'
