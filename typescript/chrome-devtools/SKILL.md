@@ -1,7 +1,13 @@
 ---
 name: chrome-devtools
-description: 'Expert-level browser automation, debugging, and performance analysis using Chrome DevTools MCP. Use for interacting with web pages, capturing screenshots, analyzing network traffic, and profiling performance.'
+description: >-
+  Expert-level browser automation, debugging, and performance analysis using
+  Chrome DevTools MCP. Use for interacting with web pages, capturing
+  screenshots, analyzing network traffic, and profiling performance.
 license: MIT
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Chrome DevTools Agent

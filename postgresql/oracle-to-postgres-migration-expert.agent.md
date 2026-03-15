@@ -20,7 +20,7 @@ tools:
   - todo
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 model: Claude Sonnet 4.6 (copilot)
 ---
 

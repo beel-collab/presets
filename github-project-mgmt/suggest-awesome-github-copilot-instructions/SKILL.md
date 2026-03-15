@@ -1,6 +1,13 @@
 ---
 name: suggest-awesome-github-copilot-instructions
-description: 'Suggest relevant GitHub Copilot instruction files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing instructions in this repository, and identifying outdated instructions that need updates.'
+description: >-
+  Suggest relevant GitHub Copilot instruction files from the awesome-copilot
+  repository based on current repository context and chat history, avoiding
+  duplicates with existing instructions in this repository, and identifying
+  outdated instructions that need updates.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Suggest Awesome GitHub Copilot Instructions

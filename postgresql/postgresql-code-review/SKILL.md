@@ -1,6 +1,13 @@
 ---
 name: postgresql-code-review
-description: 'PostgreSQL-specific code review assistant focusing on PostgreSQL best practices, anti-patterns, and unique quality standards. Covers JSONB operations, array usage, custom types, schema design, function optimization, and PostgreSQL-exclusive security features like Row Level Security (RLS).'
+description: >-
+  PostgreSQL-specific code review assistant focusing on PostgreSQL best
+  practices, anti-patterns, and unique quality standards. Covers JSONB
+  operations, array usage, custom types, schema design, function optimization,
+  and PostgreSQL-exclusive security features like Row Level Security (RLS).
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # PostgreSQL Code Review Assistant

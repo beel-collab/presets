@@ -1,6 +1,12 @@
 ---
 name: create-oo-component-documentation
-description: 'Create comprehensive, standardized documentation for object-oriented components following industry best practices and architectural documentation standards.'
+description: >-
+  Create comprehensive, standardized documentation for object-oriented
+  components following industry best practices and architectural documentation
+  standards.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Generate Standard OO Component Documentation

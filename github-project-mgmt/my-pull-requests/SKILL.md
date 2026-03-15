@@ -1,6 +1,9 @@
 ---
 name: my-pull-requests
-description: 'List my pull requests in the current repository'
+description: List my pull requests in the current repository
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 Search the current repo (using #githubRepo for the repo info) and list any pull requests you find (using #list_pull_requests) that are assigned to me.

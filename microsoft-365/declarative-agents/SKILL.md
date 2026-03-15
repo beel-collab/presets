@@ -1,6 +1,12 @@
 ---
 name: declarative-agents
-description: 'Complete development kit for Microsoft 365 Copilot declarative agents with three comprehensive workflows (basic, advanced, validation), TypeSpec support, and Microsoft 365 Agents Toolkit integration'
+description: >-
+  Complete development kit for Microsoft 365 Copilot declarative agents with
+  three comprehensive workflows (basic, advanced, validation), TypeSpec support,
+  and Microsoft 365 Agents Toolkit integration
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Microsoft 365 Declarative Agents Development Kit

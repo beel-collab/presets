@@ -1,6 +1,9 @@
 ---
 name: csharp-tunit
 description: 'Get best practices for TUnit unit testing, including data-driven tests'
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # TUnit Best Practices

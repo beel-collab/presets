@@ -1,6 +1,9 @@
 ---
 name: create-agentsmd
-description: 'Prompt for generating an AGENTS.md file for a repository'
+description: Prompt for generating an AGENTS.md file for a repository
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create high‑quality AGENTS.md file

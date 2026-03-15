@@ -1,6 +1,11 @@
 ---
 name: typespec-create-api-plugin
-description: 'Generate a TypeSpec API plugin with REST operations, authentication, and Adaptive Cards for Microsoft 365 Copilot'
+description: >-
+  Generate a TypeSpec API plugin with REST operations, authentication, and
+  Adaptive Cards for Microsoft 365 Copilot
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create TypeSpec API Plugin

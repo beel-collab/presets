@@ -1,6 +1,11 @@
 ---
 name: containerize-aspnetcore
-description: 'Containerize an ASP.NET Core project by creating Dockerfile and .dockerfile files customized for the project.'
+description: >-
+  Containerize an ASP.NET Core project by creating Dockerfile and .dockerfile
+  files customized for the project.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # ASP.NET Core Docker Containerization Prompt

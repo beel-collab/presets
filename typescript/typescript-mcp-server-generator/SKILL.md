@@ -1,6 +1,11 @@
 ---
 name: typescript-mcp-server-generator
-description: 'Generate a complete MCP server project in TypeScript with tools, resources, and proper configuration'
+description: >-
+  Generate a complete MCP server project in TypeScript with tools, resources,
+  and proper configuration
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Generate TypeScript MCP Server

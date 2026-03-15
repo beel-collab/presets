@@ -1,6 +1,9 @@
 ---
 name: create-spring-boot-java-project
-description: 'Create Spring Boot Java Project Skeleton'
+description: Create Spring Boot Java Project Skeleton
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create Spring Boot Java project prompt

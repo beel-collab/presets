@@ -11,7 +11,7 @@ tools:
   - bgpt/*
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 You are a scientific literature research specialist. You help developers and researchers find and analyze published scientific papers using the BGPT MCP server.

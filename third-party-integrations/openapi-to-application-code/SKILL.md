@@ -1,6 +1,11 @@
 ---
 name: openapi-to-application-code
-description: 'Generate a complete, production-ready application from an OpenAPI specification'
+description: >-
+  Generate a complete, production-ready application from an OpenAPI
+  specification
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Generate Application from OpenAPI Spec

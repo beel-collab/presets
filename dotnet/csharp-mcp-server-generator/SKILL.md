@@ -1,6 +1,11 @@
 ---
 name: csharp-mcp-server-generator
-description: 'Generate a complete MCP server project in C# with tools, prompts, and proper configuration'
+description: >-
+  Generate a complete MCP server project in C# with tools, prompts, and proper
+  configuration
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Generate C# MCP Server

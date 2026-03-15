@@ -1,6 +1,9 @@
 ---
 name: mkdocs-translations
-description: 'Generate a language translation for a mkdocs documentation stack.'
+description: Generate a language translation for a mkdocs documentation stack.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # MkDocs AI Translator

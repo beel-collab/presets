@@ -1,6 +1,11 @@
 ---
 name: prompt-builder
-description: 'Guide users through creating high-quality GitHub Copilot prompts with proper structure, tools, and best practices.'
+description: >-
+  Guide users through creating high-quality GitHub Copilot prompts with proper
+  structure, tools, and best practices.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Professional Prompt Builder

@@ -1,6 +1,14 @@
 ---
 name: aspire
-description: 'Aspire skill covering the Aspire CLI, AppHost orchestration, service discovery, integrations, MCP server, VS Code extension, Dev Containers, GitHub Codespaces, templates, dashboard, and deployment. Use when the user asks to create, run, debug, configure, deploy, or troubleshoot an Aspire distributed application.'
+description: >-
+  Aspire skill covering the Aspire CLI, AppHost orchestration, service
+  discovery, integrations, MCP server, VS Code extension, Dev Containers, GitHub
+  Codespaces, templates, dashboard, and deployment. Use when the user asks to
+  create, run, debug, configure, deploy, or troubleshoot an Aspire distributed
+  application.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Aspire — Polyglot Distributed-App Orchestration

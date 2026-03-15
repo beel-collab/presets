@@ -1,6 +1,11 @@
 ---
 name: update-oo-component-documentation
-description: 'Update existing object-oriented component documentation following industry best practices and architectural documentation standards.'
+description: >-
+  Update existing object-oriented component documentation following industry
+  best practices and architectural documentation standards.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Update Standard OO Component Documentation

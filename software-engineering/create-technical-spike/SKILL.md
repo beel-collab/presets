@@ -1,6 +1,11 @@
 ---
 name: create-technical-spike
-description: 'Create time-boxed technical spike documents for researching and resolving critical development decisions before implementation.'
+description: >-
+  Create time-boxed technical spike documents for researching and resolving
+  critical development decisions before implementation.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create Technical Spike Document

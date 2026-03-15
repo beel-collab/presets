@@ -1,6 +1,11 @@
 ---
 name: python-mcp-server-generator
-description: 'Generate a complete MCP server project in Python with tools, resources, and proper configuration'
+description: >-
+  Generate a complete MCP server project in Python with tools, resources, and
+  proper configuration
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Generate Python MCP Server

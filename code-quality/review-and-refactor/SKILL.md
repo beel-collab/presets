@@ -1,6 +1,9 @@
 ---
 name: review-and-refactor
-description: 'Review and refactor code in your project according to defined instructions'
+description: Review and refactor code in your project according to defined instructions
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 ## Role

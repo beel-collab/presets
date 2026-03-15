@@ -1,6 +1,12 @@
 ---
 name: power-bi-performance-troubleshooting
-description: 'Systematic Power BI performance troubleshooting prompt for identifying, diagnosing, and resolving performance issues in Power BI models, reports, and queries.'
+description: >-
+  Systematic Power BI performance troubleshooting prompt for identifying,
+  diagnosing, and resolving performance issues in Power BI models, reports, and
+  queries.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Power BI Performance Troubleshooting Guide

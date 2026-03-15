@@ -1,6 +1,14 @@
 ---
 name: sql-optimization
-description: 'Universal SQL performance optimization assistant for comprehensive query tuning, indexing strategies, and database performance analysis across all SQL databases (MySQL, PostgreSQL, SQL Server, Oracle). Provides execution plan analysis, pagination optimization, batch operations, and performance monitoring guidance.'
+description: >-
+  Universal SQL performance optimization assistant for comprehensive query
+  tuning, indexing strategies, and database performance analysis across all SQL
+  databases (MySQL, PostgreSQL, SQL Server, Oracle). Provides execution plan
+  analysis, pagination optimization, batch operations, and performance
+  monitoring guidance.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # SQL Performance Optimization Assistant

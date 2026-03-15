@@ -1,6 +1,12 @@
 ---
 name: meeting-minutes
-description: 'Generate concise, actionable meeting minutes for internal meetings. Includes metadata, attendees, agenda, decisions, action items (owner + due date), and follow-up steps.'
+description: >-
+  Generate concise, actionable meeting minutes for internal meetings. Includes
+  metadata, attendees, agenda, decisions, action items (owner + due date), and
+  follow-up steps.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Meeting Minutes Skill — Short Internal Meetings

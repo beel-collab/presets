@@ -1,6 +1,9 @@
 ---
 name: playwright-generate-test
-description: 'Generate a Playwright test based on a scenario using Playwright MCP'
+description: Generate a Playwright test based on a scenario using Playwright MCP
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Test Generation with Playwright MCP

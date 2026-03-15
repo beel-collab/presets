@@ -1,6 +1,11 @@
 ---
 name: shuffle-json-data
-description: 'Shuffle repetitive JSON objects safely by validating schema consistency before randomising entries.'
+description: >-
+  Shuffle repetitive JSON objects safely by validating schema consistency before
+  randomising entries.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Shuffle JSON Data

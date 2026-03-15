@@ -7,7 +7,7 @@ tags: []
 tools: []
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Next.js Best Practices for LLMs (2026)

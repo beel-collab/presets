@@ -1,6 +1,14 @@
 ---
 name: winui3-migration-guide
-description: 'UWP-to-WinUI 3 migration reference. Maps legacy UWP APIs to correct Windows App SDK equivalents with before/after code snippets. Covers namespace changes, threading (CoreDispatcher to DispatcherQueue), windowing (CoreWindow to AppWindow), dialogs, pickers, sharing, printing, background tasks, and the most common Copilot code generation mistakes.'
+description: >-
+  UWP-to-WinUI 3 migration reference. Maps legacy UWP APIs to correct Windows
+  App SDK equivalents with before/after code snippets. Covers namespace changes,
+  threading (CoreDispatcher to DispatcherQueue), windowing (CoreWindow to
+  AppWindow), dialogs, pickers, sharing, printing, background tasks, and the
+  most common Copilot code generation mistakes.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # WinUI 3 Migration Guide

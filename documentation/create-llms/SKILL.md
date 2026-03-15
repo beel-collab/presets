@@ -1,6 +1,11 @@
 ---
 name: create-llms
-description: 'Create an llms.txt file from scratch based on repository structure following the llms.txt specification at https://llmstxt.org/'
+description: >-
+  Create an llms.txt file from scratch based on repository structure following
+  the llms.txt specification at https://llmstxt.org/
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create LLMs.txt File from Repository Structure

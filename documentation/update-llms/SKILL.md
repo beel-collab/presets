@@ -1,6 +1,12 @@
 ---
 name: update-llms
-description: 'Update the llms.txt file in the root folder to reflect changes in documentation or specifications following the llms.txt specification at https://llmstxt.org/'
+description: >-
+  Update the llms.txt file in the root folder to reflect changes in
+  documentation or specifications following the llms.txt specification at
+  https://llmstxt.org/
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Update LLMs.txt File

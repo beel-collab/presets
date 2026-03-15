@@ -1,6 +1,9 @@
 ---
 name: java-springboot
-description: 'Get best practices for developing applications with Spring Boot.'
+description: Get best practices for developing applications with Spring Boot.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Spring Boot Best Practices

@@ -1,6 +1,9 @@
 ---
 name: java-junit
 description: 'Get best practices for JUnit 5 unit testing, including data-driven tests'
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # JUnit 5+ Best Practices

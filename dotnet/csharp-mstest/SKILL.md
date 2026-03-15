@@ -1,6 +1,11 @@
 ---
 name: csharp-mstest
-description: 'Get best practices for MSTest 3.x/4.x unit testing, including modern assertion APIs and data-driven tests'
+description: >-
+  Get best practices for MSTest 3.x/4.x unit testing, including modern assertion
+  APIs and data-driven tests
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # MSTest Best Practices (MSTest 3.x/4.x)

@@ -1,6 +1,9 @@
 ---
 name: dotnet-best-practices
-description: 'Ensure .NET/C# code meets best practices for the solution/project.'
+description: Ensure .NET/C# code meets best practices for the solution/project.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # .NET/C# Best Practices

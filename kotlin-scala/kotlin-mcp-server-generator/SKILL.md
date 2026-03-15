@@ -1,6 +1,12 @@
 ---
 name: kotlin-mcp-server-generator
-description: 'Generate a complete Kotlin MCP server project with proper structure, dependencies, and implementation using the official io.modelcontextprotocol:kotlin-sdk library.'
+description: >-
+  Generate a complete Kotlin MCP server project with proper structure,
+  dependencies, and implementation using the official
+  io.modelcontextprotocol:kotlin-sdk library.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Kotlin MCP Server Project Generator

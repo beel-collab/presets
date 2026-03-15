@@ -1,6 +1,11 @@
 ---
 name: add-educational-comments
-description: 'Add educational comments to the file specified, or prompt asking for file to comment if one is not provided.'
+description: >-
+  Add educational comments to the file specified, or prompt asking for file to
+  comment if one is not provided.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Add Educational Comments

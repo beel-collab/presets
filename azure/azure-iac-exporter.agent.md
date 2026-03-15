@@ -19,7 +19,7 @@ tools:
   - ms-azuretools.vscode-azure-github-copilot/azure_query_azure_resource_graph
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 model: Claude Sonnet 4.5
 ---
 

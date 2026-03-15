@@ -14,7 +14,7 @@ tools:
   - neo4j-local/neo4j-local-write_neo4j_cypher
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Neo4j Python Client Generator

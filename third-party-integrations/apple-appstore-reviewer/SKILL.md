@@ -1,6 +1,11 @@
 ---
 name: apple-appstore-reviewer
-description: 'Serves as a reviewer of the codebase with instructions on looking for Apple App Store optimizations or rejection reasons.'
+description: >-
+  Serves as a reviewer of the codebase with instructions on looking for Apple
+  App Store optimizations or rejection reasons.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Apple App Store Review Specialist

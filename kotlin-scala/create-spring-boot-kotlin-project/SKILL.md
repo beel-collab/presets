@@ -1,6 +1,9 @@
 ---
 name: create-spring-boot-kotlin-project
-description: 'Create Spring Boot Kotlin Project Skeleton'
+description: Create Spring Boot Kotlin Project Skeleton
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create Spring Boot Kotlin project prompt

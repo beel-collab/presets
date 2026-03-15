@@ -1,6 +1,11 @@
 ---
 name: create-github-issues-feature-from-implementation-plan
-description: 'Create GitHub Issues from implementation plan phases using feature_request.yml or chore_request.yml templates.'
+description: >-
+  Create GitHub Issues from implementation plan phases using feature_request.yml
+  or chore_request.yml templates.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create GitHub Issue from Implementation Plan

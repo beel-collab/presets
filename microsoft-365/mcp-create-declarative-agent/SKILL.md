@@ -1,6 +1,9 @@
 ---
 name: mcp-create-declarative-agent
-description: 'Skill converted from mcp-create-declarative-agent.prompt.md'
+description: Skill converted from mcp-create-declarative-agent.prompt.md
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 ````prompt

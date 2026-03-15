@@ -1,6 +1,9 @@
 ---
 name: next-intl-add-language
-description: 'Add new language to a Next.js + next-intl application'
+description: Add new language to a Next.js + next-intl application
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 This is a guide to add a new language to a Next.js project using next-intl for internationalization,

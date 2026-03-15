@@ -1,6 +1,14 @@
 ---
 name: quasi-coder
-description: 'Expert 10x engineer skill for interpreting and implementing code from shorthand, quasi-code, and natural language descriptions. Use when collaborators provide incomplete code snippets, pseudo-code, or descriptions with potential typos or incorrect terminology. Excels at translating non-technical or semi-technical descriptions into production-quality code.'
+description: >-
+  Expert 10x engineer skill for interpreting and implementing code from
+  shorthand, quasi-code, and natural language descriptions. Use when
+  collaborators provide incomplete code snippets, pseudo-code, or descriptions
+  with potential typos or incorrect terminology. Excels at translating
+  non-technical or semi-technical descriptions into production-quality code.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Quasi-Coder Skill

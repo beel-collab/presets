@@ -1,6 +1,11 @@
 ---
 name: vscode-ext-localization
-description: 'Guidelines for proper localization of VS Code extensions, following VS Code extension development guidelines, libraries and good practices'
+description: >-
+  Guidelines for proper localization of VS Code extensions, following VS Code
+  extension development guidelines, libraries and good practices
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # VS Code extension localization

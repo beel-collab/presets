@@ -15,7 +15,7 @@ tools:
   - search
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 model: GPT-4.1 | 'gpt-5' | 'Claude Sonnet 4.5'
 ---
 

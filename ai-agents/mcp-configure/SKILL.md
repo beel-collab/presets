@@ -1,6 +1,9 @@
 ---
 name: mcp-configure
 description: Configure an MCP server for GitHub Copilot with your Dataverse environment.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Configure Dataverse MCP for GitHub Copilot

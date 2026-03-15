@@ -7,7 +7,7 @@ tags: []
 tools: []
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Svelte 5 and SvelteKit Development Instructions

@@ -1,6 +1,12 @@
 ---
 name: vscode-ext-commands
-description: 'Guidelines for contributing commands in VS Code extensions. Indicates naming convention, visibility, localization and other relevant attributes, following VS Code extension development guidelines, libraries and good practices'
+description: >-
+  Guidelines for contributing commands in VS Code extensions. Indicates naming
+  convention, visibility, localization and other relevant attributes, following
+  VS Code extension development guidelines, libraries and good practices
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # VS Code extension command contribution

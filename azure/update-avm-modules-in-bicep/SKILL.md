@@ -1,6 +1,9 @@
 ---
 name: update-avm-modules-in-bicep
-description: 'Update Azure Verified Modules (AVM) to latest versions in Bicep files.'
+description: Update Azure Verified Modules (AVM) to latest versions in Bicep files.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Update Azure Verified Modules in Bicep Files

@@ -1,7 +1,15 @@
 ---
 name: microsoft-code-reference
-description: Look up Microsoft API references, find working code samples, and verify SDK code is correct. Use when working with Azure SDKs, .NET libraries, or Microsoft APIs—to find the right method, check parameters, get working examples, or troubleshoot errors. Catches hallucinated methods, wrong signatures, and deprecated patterns by querying official docs.
-compatibility: Requires Microsoft Learn MCP Server (https://learn.microsoft.com/api/mcp)
+description: >-
+  Look up Microsoft API references, find working code samples, and verify SDK
+  code is correct. Use when working with Azure SDKs, .NET libraries, or
+  Microsoft APIs—to find the right method, check parameters, get working
+  examples, or troubleshoot errors. Catches hallucinated methods, wrong
+  signatures, and deprecated patterns by querying official docs.
+compatibility: 'Requires Microsoft Learn MCP Server (https://learn.microsoft.com/api/mcp)'
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Microsoft Code Reference

@@ -1,6 +1,12 @@
 ---
 name: memory-merger
-description: 'Merges mature lessons from a domain memory file into its instruction file. Syntax: `/memory-merger >domain [scope]` where scope is `global` (default), `user`, `workspace`, or `ws`.'
+description: >-
+  Merges mature lessons from a domain memory file into its instruction file.
+  Syntax: `/memory-merger >domain [scope]` where scope is `global` (default),
+  `user`, `workspace`, or `ws`.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Memory Merger

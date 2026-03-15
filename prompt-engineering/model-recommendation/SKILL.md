@@ -1,6 +1,11 @@
 ---
 name: model-recommendation
-description: 'Analyze chatmode or prompt files and recommend optimal AI models based on task complexity, required capabilities, and cost-efficiency'
+description: >-
+  Analyze chatmode or prompt files and recommend optimal AI models based on task
+  complexity, required capabilities, and cost-efficiency
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # AI Model Recommendation for Copilot Chat Modes and Prompts

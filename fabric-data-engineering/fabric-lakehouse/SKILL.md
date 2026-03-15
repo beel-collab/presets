@@ -1,9 +1,17 @@
 ---
 name: fabric-lakehouse
-description: 'Use this skill to get context about Fabric Lakehouse and its features for software systems and AI-powered functions. It offers descriptions of Lakehouse data components, organization with schemas and shortcuts, access control, and code examples. This skill supports users in designing, building, and optimizing Lakehouse solutions using best practices.'
+description: >-
+  Use this skill to get context about Fabric Lakehouse and its features for
+  software systems and AI-powered functions. It offers descriptions of Lakehouse
+  data components, organization with schemas and shortcuts, access control, and
+  code examples. This skill supports users in designing, building, and
+  optimizing Lakehouse solutions using best practices.
 metadata:
   author: tedvilutis
-  version: "1.0"
+  version: '1.0'
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # When to Use This Skill

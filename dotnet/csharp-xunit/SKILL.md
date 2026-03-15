@@ -1,6 +1,9 @@
 ---
 name: csharp-xunit
 description: 'Get best practices for XUnit unit testing, including data-driven tests'
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # XUnit Best Practices

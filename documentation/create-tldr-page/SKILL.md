@@ -1,6 +1,11 @@
 ---
 name: create-tldr-page
-description: 'Create a tldr page from documentation URLs and command examples, requiring both URL and command name.'
+description: >-
+  Create a tldr page from documentation URLs and command examples, requiring
+  both URL and command name.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create TLDR Page

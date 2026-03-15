@@ -1,6 +1,12 @@
 ---
 name: breakdown-plan
-description: 'Issue Planning and Automation prompt that generates comprehensive project plans with Epic > Feature > Story/Enabler > Test hierarchy, dependencies, priorities, and automated tracking.'
+description: >-
+  Issue Planning and Automation prompt that generates comprehensive project
+  plans with Epic > Feature > Story/Enabler > Test hierarchy, dependencies,
+  priorities, and automated tracking.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # GitHub Issue Planning & Project Automation Prompt

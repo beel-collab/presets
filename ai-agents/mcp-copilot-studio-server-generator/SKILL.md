@@ -1,6 +1,11 @@
 ---
 name: mcp-copilot-studio-server-generator
-description: 'Generate a complete MCP server implementation optimized for Copilot Studio integration with proper schema constraints and streamable HTTP support'
+description: >-
+  Generate a complete MCP server implementation optimized for Copilot Studio
+  integration with proper schema constraints and streamable HTTP support
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Power Platform MCP Connector Generator

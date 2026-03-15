@@ -1,6 +1,11 @@
 ---
 name: github-copilot-starter
-description: 'Set up complete GitHub Copilot configuration for a new project based on technology stack'
+description: >-
+  Set up complete GitHub Copilot configuration for a new project based on
+  technology stack
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 You are a GitHub Copilot setup specialist. Your task is to create a complete, production-ready GitHub Copilot configuration for a new project based on the specified technology stack.

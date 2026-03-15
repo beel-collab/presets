@@ -1,6 +1,11 @@
 ---
 name: swift-mcp-server-generator
-description: 'Generate a complete Model Context Protocol server project in Swift using the official MCP Swift SDK package.'
+description: >-
+  Generate a complete Model Context Protocol server project in Swift using the
+  official MCP Swift SDK package.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Swift MCP Server Generator

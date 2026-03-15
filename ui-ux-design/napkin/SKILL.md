@@ -1,6 +1,13 @@
 ---
 name: napkin
-description: 'Visual whiteboard collaboration for Copilot CLI. Creates an interactive whiteboard that opens in your browser — draw, sketch, add sticky notes, then share everything back with Copilot. Copilot sees your drawings and text, and responds with analysis, suggestions, and ideas.'
+description: >-
+  Visual whiteboard collaboration for Copilot CLI. Creates an interactive
+  whiteboard that opens in your browser — draw, sketch, add sticky notes, then
+  share everything back with Copilot. Copilot sees your drawings and text, and
+  responds with analysis, suggestions, and ideas.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Napkin — Visual Whiteboard for Copilot CLI

@@ -1,6 +1,9 @@
 ---
 name: csharp-async
-description: 'Get best practices for C# async programming'
+description: Get best practices for C# async programming
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # C# Async Programming Best Practices

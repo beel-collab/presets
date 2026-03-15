@@ -1,6 +1,9 @@
 ---
 name: kotlin-springboot
-description: 'Get best practices for developing applications with Spring Boot and Kotlin.'
+description: Get best practices for developing applications with Spring Boot and Kotlin.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Spring Boot with Kotlin Best Practices

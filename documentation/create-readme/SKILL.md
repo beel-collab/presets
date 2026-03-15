@@ -1,6 +1,9 @@
 ---
 name: create-readme
-description: 'Create a README.md file for the project'
+description: Create a README.md file for the project
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 ## Role

@@ -1,6 +1,13 @@
 ---
 name: doublecheck
-description: 'Three-layer verification pipeline for AI output. Extracts verifiable claims, finds supporting or contradicting sources via web search, runs adversarial review for hallucination patterns, and produces a structured verification report with source links for human review.'
+description: >-
+  Three-layer verification pipeline for AI output. Extracts verifiable claims,
+  finds supporting or contradicting sources via web search, runs adversarial
+  review for hallucination patterns, and produces a structured verification
+  report with source links for human review.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Doublecheck

@@ -1,6 +1,9 @@
 ---
 name: refactor-plan
-description: 'Plan a multi-file refactor with proper sequencing and rollback steps'
+description: Plan a multi-file refactor with proper sequencing and rollback steps
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Refactor Plan

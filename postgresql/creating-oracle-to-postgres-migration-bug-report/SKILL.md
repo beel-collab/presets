@@ -1,6 +1,13 @@
 ---
 name: creating-oracle-to-postgres-migration-bug-report
-description: 'Creates structured bug reports for defects found during Oracle-to-PostgreSQL migration. Use when documenting behavioral differences between Oracle and PostgreSQL as actionable bug reports with severity, root cause, and remediation steps.'
+description: >-
+  Creates structured bug reports for defects found during Oracle-to-PostgreSQL
+  migration. Use when documenting behavioral differences between Oracle and
+  PostgreSQL as actionable bug reports with severity, root cause, and
+  remediation steps.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Creating Bug Reports for Oracle-to-PostgreSQL Migration

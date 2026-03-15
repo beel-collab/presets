@@ -1,6 +1,13 @@
 ---
 name: suggest-awesome-github-copilot-agents
-description: 'Suggest relevant GitHub Copilot Custom Agents files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing custom agents in this repository, and identifying outdated agents that need updates.'
+description: >-
+  Suggest relevant GitHub Copilot Custom Agents files from the awesome-copilot
+  repository based on current repository context and chat history, avoiding
+  duplicates with existing custom agents in this repository, and identifying
+  outdated agents that need updates.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Suggest Awesome GitHub Copilot Custom Agents

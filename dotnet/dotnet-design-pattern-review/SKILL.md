@@ -1,6 +1,11 @@
 ---
 name: dotnet-design-pattern-review
-description: 'Review the C#/.NET code for design pattern implementation and suggest improvements.'
+description: >-
+  Review the C#/.NET code for design pattern implementation and suggest
+  improvements.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # .NET/C# Design Pattern Review

@@ -1,6 +1,9 @@
 ---
 name: java-refactoring-extract-method
-description: 'Refactoring using Extract Methods in Java Language'
+description: Refactoring using Extract Methods in Java Language
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Refactoring Java Methods with Extract Method

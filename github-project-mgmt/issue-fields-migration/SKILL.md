@@ -1,6 +1,14 @@
 ---
 name: issue-fields-migration
-description: 'Migrate field values from GitHub Project V2 fields or repo labels to org-level issue fields. Use this skill when users need to bulk-copy metadata (priority, status, dates, text, numbers) from project fields or labels to issue fields, or when they ask about migrating, transferring, or copying project field data or labels to issue fields.'
+description: >-
+  Migrate field values from GitHub Project V2 fields or repo labels to org-level
+  issue fields. Use this skill when users need to bulk-copy metadata (priority,
+  status, dates, text, numbers) from project fields or labels to issue fields,
+  or when they ask about migrating, transferring, or copying project field data
+  or labels to issue fields.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Issue Fields Migration

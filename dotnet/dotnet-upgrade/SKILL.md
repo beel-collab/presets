@@ -1,6 +1,11 @@
 ---
 name: dotnet-upgrade
-description: 'Ready-to-use prompts for comprehensive .NET framework upgrade analysis and execution'
+description: >-
+  Ready-to-use prompts for comprehensive .NET framework upgrade analysis and
+  execution
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Project Discovery & Assessment

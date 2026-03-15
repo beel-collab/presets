@@ -1,6 +1,11 @@
 ---
 name: centos-linux-triage
-description: 'Triage and resolve CentOS issues using RHEL-compatible tooling, SELinux-aware practices, and firewalld.'
+description: >-
+  Triage and resolve CentOS issues using RHEL-compatible tooling, SELinux-aware
+  practices, and firewalld.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # CentOS Linux Triage

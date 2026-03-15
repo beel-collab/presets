@@ -1,6 +1,11 @@
 ---
 name: fedora-linux-triage
-description: 'Triage and resolve Fedora issues with dnf, systemd, and SELinux-aware guidance.'
+description: >-
+  Triage and resolve Fedora issues with dnf, systemd, and SELinux-aware
+  guidance.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Fedora Linux Triage

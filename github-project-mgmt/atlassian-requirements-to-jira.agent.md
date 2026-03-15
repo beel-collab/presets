@@ -9,7 +9,7 @@ tools:
   - atlassian
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 ## 🔒 SECURITY CONSTRAINTS & OPERATIONAL LIMITS

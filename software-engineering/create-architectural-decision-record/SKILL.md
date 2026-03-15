@@ -1,6 +1,11 @@
 ---
 name: create-architectural-decision-record
-description: 'Create an Architectural Decision Record (ADR) document for AI-optimized decision documentation.'
+description: >-
+  Create an Architectural Decision Record (ADR) document for AI-optimized
+  decision documentation.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create Architectural Decision Record

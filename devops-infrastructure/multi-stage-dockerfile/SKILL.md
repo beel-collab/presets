@@ -1,6 +1,9 @@
 ---
 name: multi-stage-dockerfile
-description: 'Create optimized multi-stage Dockerfiles for any language or framework'
+description: Create optimized multi-stage Dockerfiles for any language or framework
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 Your goal is to help me create efficient multi-stage Dockerfiles that follow best practices, resulting in smaller, more secure container images.

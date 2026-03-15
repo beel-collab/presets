@@ -26,7 +26,7 @@ tools:
   - github
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 # Technical Debt Remediation Plan
 

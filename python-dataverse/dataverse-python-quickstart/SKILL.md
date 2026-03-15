@@ -1,6 +1,11 @@
 ---
 name: dataverse-python-quickstart
-description: 'Generate Python SDK setup + CRUD + bulk + paging snippets using official patterns.'
+description: >-
+  Generate Python SDK setup + CRUD + bulk + paging snippets using official
+  patterns.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 You are assisting with Microsoft Dataverse SDK for Python (preview).

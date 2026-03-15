@@ -1,6 +1,12 @@
 ---
 name: power-bi-report-design-consultation
-description: 'Power BI report visualization design prompt for creating effective, user-friendly, and accessible reports with optimal chart selection and layout design.'
+description: >-
+  Power BI report visualization design prompt for creating effective,
+  user-friendly, and accessible reports with optimal chart selection and layout
+  design.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Power BI Report Visualization Designer

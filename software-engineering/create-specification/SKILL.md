@@ -1,6 +1,11 @@
 ---
 name: create-specification
-description: 'Create a new specification file for the solution, optimized for Generative AI consumption.'
+description: >-
+  Create a new specification file for the solution, optimized for Generative AI
+  consumption.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create Specification

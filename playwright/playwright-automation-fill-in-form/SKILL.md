@@ -1,6 +1,9 @@
 ---
 name: playwright-automation-fill-in-form
-description: 'Automate filling in a form using Playwright MCP'
+description: Automate filling in a form using Playwright MCP
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Automating Filling in a Form with Playwright MCP

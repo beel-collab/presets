@@ -14,7 +14,7 @@ tools:
   - todos
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Azure Bicep Infrastructure as Code coding Specialist

@@ -30,7 +30,7 @@ tools:
   - azure_get_schema_for_Bicep
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Azure AVM Terraform mode

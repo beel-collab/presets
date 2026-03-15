@@ -1,6 +1,9 @@
 ---
 name: appinsights-instrumentation
-description: 'Instrument a webapp to send useful telemetry data to Azure App Insights'
+description: Instrument a webapp to send useful telemetry data to Azure App Insights
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # AppInsights instrumentation

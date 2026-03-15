@@ -1,13 +1,23 @@
 ---
 name: agentic-eval
-description: |
-  Patterns and techniques for evaluating and improving AI agent outputs. Use this skill when:
+description: >
+  Patterns and techniques for evaluating and improving AI agent outputs. Use
+  this skill when:
+
   - Implementing self-critique and reflection loops
+
   - Building evaluator-optimizer pipelines for quality-critical generation
+
   - Creating test-driven code refinement workflows
+
   - Designing rubric-based or LLM-as-judge evaluation systems
+
   - Adding iterative improvement to agent outputs (code, reports, analysis)
+
   - Measuring and improving agent response quality
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Agentic Evaluation Patterns

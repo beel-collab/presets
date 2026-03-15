@@ -1,6 +1,16 @@
 ---
 name: winapp-cli
-description: 'Windows App Development CLI (winapp) for building, packaging, and deploying Windows applications. Use when asked to initialize Windows app projects, create MSIX packages, generate AppxManifest.xml, manage development certificates, add package identity for debugging, sign packages, publish to the Microsoft Store, create external catalogs, or access Windows SDK build tools. Supports .NET (csproj), C++, Electron, Rust, Tauri, and cross-platform frameworks targeting Windows.'
+description: >-
+  Windows App Development CLI (winapp) for building, packaging, and deploying
+  Windows applications. Use when asked to initialize Windows app projects,
+  create MSIX packages, generate AppxManifest.xml, manage development
+  certificates, add package identity for debugging, sign packages, publish to
+  the Microsoft Store, create external catalogs, or access Windows SDK build
+  tools. Supports .NET (csproj), C++, Electron, Rust, Tauri, and cross-platform
+  frameworks targeting Windows.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Windows App Development CLI

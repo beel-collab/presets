@@ -1,6 +1,11 @@
 ---
 name: create-implementation-plan
-description: 'Create a new implementation plan file for new features, refactoring existing code or upgrading packages, design, architecture or infrastructure.'
+description: >-
+  Create a new implementation plan file for new features, refactoring existing
+  code or upgrading packages, design, architecture or infrastructure.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Create Implementation Plan

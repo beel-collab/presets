@@ -1,6 +1,15 @@
 ---
 name: polyglot-test-agent
-description: 'Generates comprehensive, workable unit tests for any programming language using a multi-agent pipeline. Use when asked to generate tests, write unit tests, improve test coverage, add test coverage, create test files, or test a codebase. Supports C#, TypeScript, JavaScript, Python, Go, Rust, Java, and more. Orchestrates research, planning, and implementation phases to produce tests that compile, pass, and follow project conventions.'
+description: >-
+  Generates comprehensive, workable unit tests for any programming language
+  using a multi-agent pipeline. Use when asked to generate tests, write unit
+  tests, improve test coverage, add test coverage, create test files, or test a
+  codebase. Supports C#, TypeScript, JavaScript, Python, Go, Rust, Java, and
+  more. Orchestrates research, planning, and implementation phases to produce
+  tests that compile, pass, and follow project conventions.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Polyglot Test Generation Skill

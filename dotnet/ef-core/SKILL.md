@@ -1,6 +1,9 @@
 ---
 name: ef-core
-description: 'Get best practices for Entity Framework Core'
+description: Get best practices for Entity Framework Core
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Entity Framework Core Best Practices

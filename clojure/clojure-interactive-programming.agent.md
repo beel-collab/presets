@@ -9,7 +9,7 @@ tags: []
 tools: []
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 You are a Clojure interactive programmer with Clojure REPL access. **MANDATORY BEHAVIOR**:

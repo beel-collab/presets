@@ -1,6 +1,13 @@
 ---
 name: azure-static-web-apps
-description: Helps create, configure, and deploy Azure Static Web Apps using the SWA CLI. Use when deploying static sites to Azure, setting up SWA local development, configuring staticwebapp.config.json, adding Azure Functions APIs to SWA, or setting up GitHub Actions CI/CD for Static Web Apps.
+description: >-
+  Helps create, configure, and deploy Azure Static Web Apps using the SWA CLI.
+  Use when deploying static sites to Azure, setting up SWA local development,
+  configuring staticwebapp.config.json, adding Azure Functions APIs to SWA, or
+  setting up GitHub Actions CI/CD for Static Web Apps.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 ## Overview

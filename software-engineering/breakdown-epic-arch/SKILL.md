@@ -1,6 +1,11 @@
 ---
 name: breakdown-epic-arch
-description: 'Prompt for creating the high-level technical architecture for an Epic, based on a Product Requirements Document.'
+description: >-
+  Prompt for creating the high-level technical architecture for an Epic, based
+  on a Product Requirements Document.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Epic Architecture Specification Prompt

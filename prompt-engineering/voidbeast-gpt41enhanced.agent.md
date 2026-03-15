@@ -33,7 +33,7 @@ tools:
   - vscodeAPI
 author:
   name: Community
-  url: 'https://github.com/github/awesome-copilot'
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # voidBeast_GPT41Enhanced 1.0 - Elite Developer AI Assistant

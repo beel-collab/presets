@@ -1,6 +1,11 @@
 ---
 name: debian-linux-triage
-description: 'Triage and resolve Debian Linux issues with apt, systemd, and AppArmor-aware guidance.'
+description: >-
+  Triage and resolve Debian Linux issues with apt, systemd, and AppArmor-aware
+  guidance.
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Debian Linux Triage

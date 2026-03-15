@@ -5,8 +5,12 @@ description: >-
   MCP server. Load this skill when asked to: create a flow, build a new flow,
   deploy a flow definition, scaffold a Power Automate workflow, construct a flow
   JSON, update an existing flow's actions, patch a flow definition, add actions
-  to a flow, wire up connections, or generate a workflow definition from scratch.
-  Requires a FlowStudio MCP subscription — see https://mcp.flowstudio.app
+  to a flow, wire up connections, or generate a workflow definition from
+  scratch. Requires a FlowStudio MCP subscription — see
+  https://mcp.flowstudio.app
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Build & Deploy Power Automate Flows with FlowStudio MCP
