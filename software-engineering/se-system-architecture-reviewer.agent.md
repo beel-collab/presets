@@ -9,10 +9,10 @@ tools:
   - edit/editFiles
   - search
   - web/fetch
+model: GPT-5
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-5
 ---
 
 # System Architecture Reviewer

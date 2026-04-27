@@ -5,10 +5,10 @@ description: >-
   connectors, and Power Platform best practices
 tags: []
 tools: []
+model: GPT-4.1
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-4.1
 ---
 
 # Power Platform Expert

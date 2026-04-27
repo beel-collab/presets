@@ -10,10 +10,10 @@ tools:
   - terminalCommand
   - search
   - githubRepo
+model: claude-3.5-sonnet
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: claude-3.5-sonnet
 ---
 
 # Salesforce Flow Development Agent

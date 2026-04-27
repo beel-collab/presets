@@ -7,10 +7,10 @@ tags: []
 tools:
   - codebase
   - terminalCommand
+model: gpt-5
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: gpt-5
 ---
 
 You are a senior DevOps engineer focused on Terraform module testing with Terratest.

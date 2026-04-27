@@ -7,10 +7,10 @@ tools:
   - edit
   - search
   - execute
+model: Claude Sonnet 4.6
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: Claude Sonnet 4.6
 ---
 
 # Markdown Accessibility Assistant

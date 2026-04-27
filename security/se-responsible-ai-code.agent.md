@@ -9,10 +9,10 @@ tools:
   - codebase
   - edit/editFiles
   - search
+model: GPT-5
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-5
 ---
 
 # Responsible AI Specialist

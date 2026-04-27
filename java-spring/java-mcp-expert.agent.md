@@ -5,10 +5,10 @@ description: >-
   reactive streams, the official MCP Java SDK, and Spring Boot integration.
 tags: []
 tools: []
+model: GPT-4.1
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-4.1
 ---
 
 # Java MCP Expert

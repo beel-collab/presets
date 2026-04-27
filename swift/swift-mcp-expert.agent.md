@@ -5,10 +5,10 @@ description: >-
   modern concurrency features and the official MCP Swift SDK.
 tags: []
 tools: []
+model: GPT-4.1
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-4.1
 ---
 
 # Swift MCP Expert

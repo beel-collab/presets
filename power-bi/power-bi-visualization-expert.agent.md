@@ -27,10 +27,10 @@ tools:
   - usages
   - vscodeAPI
   - microsoft.docs.mcp
+model: gpt-4.1
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: gpt-4.1
 ---
 
 # Power BI Visualization Expert Mode

@@ -18,10 +18,10 @@ tools:
   - ms-ossdata.vscode-pgsql/pgsql_migration_oracle_app
   - ms-ossdata.vscode-pgsql/pgsql_migration_show_report
   - todo
+model: Claude Sonnet 4.6 (copilot)
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: Claude Sonnet 4.6 (copilot)
 ---
 
 ## Your Expertise

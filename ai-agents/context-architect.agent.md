@@ -7,10 +7,10 @@ tags: []
 tools:
   - codebase
   - terminalCommand
+model: GPT-5
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-5
 ---
 
 You are a Context Architect—an expert at understanding codebases and planning changes that span multiple files.

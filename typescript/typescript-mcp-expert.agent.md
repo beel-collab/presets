@@ -5,10 +5,10 @@ description: >-
   TypeScript
 tags: []
 tools: []
+model: GPT-4.1
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-4.1
 ---
 
 # TypeScript MCP Server Expert

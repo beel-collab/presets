@@ -11,10 +11,10 @@ tools:
   - update_issue
   - list_issues
   - search_issues
+model: GPT-5
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-5
 ---
 
 # Product Manager Advisor

@@ -3,10 +3,10 @@ title: python-mcp-expert.agent
 description: Expert assistant for developing Model Context Protocol (MCP) servers in Python
 tags: []
 tools: []
+model: GPT-4.1
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-4.1
 ---
 
 # Python MCP Server Expert

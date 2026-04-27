@@ -1,5 +1,8 @@
 ---
 description: 'Best practices and guidelines for generating comprehensive, parameterized unit tests with 80% code coverage across any programming language'
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Unit Test Generation Prompt

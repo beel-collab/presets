@@ -6,6 +6,9 @@ date_created: [YYYY-MM-DD]
 last_updated: [Optional YYYY-MM-DD]
 owner: [Optional team or individual]
 tags: [Optional list of relevant tags]
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # [Component Name] Documentation

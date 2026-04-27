@@ -38,14 +38,14 @@ tools:
   - ms-python.python/getPythonExecutableCommand
   - ms-python.python/installPythonPackage
   - ms-python.python/configurePythonEnvironment
-author:
-  name: Community
-  url: 'https://github.com/beel-collab/presets.dev'
 model:
   - GPT-5.3-Codex
   - Claude Sonnet 4.6 (copilot)
   - Claude Opus 4.6 (copilot)
   - Claude Haiku 4.5 (copilot)
+author:
+  name: Community
+  url: 'https://github.com/beel-collab/presets.dev'
 ---
 
 # Dotnet Self-Learning Architect

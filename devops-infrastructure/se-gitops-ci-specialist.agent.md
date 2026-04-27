@@ -10,10 +10,10 @@ tools:
   - terminalCommand
   - search
   - githubRepo
+model: GPT-5
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-5
 ---
 
 # GitOps & CI Specialist

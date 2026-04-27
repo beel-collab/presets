@@ -8,10 +8,10 @@ tags: []
 tools:
   - read
   - search
+model: claude-sonnet-4-5
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: claude-sonnet-4-5
 ---
 
 # Defender Scout KQL Agent

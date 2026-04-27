@@ -16,10 +16,10 @@ tools:
   - runCommands
   - search
   - terminalLastCommand
+model: GPT-4.1
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-4.1
 ---
 
 # Repo Architect Agent

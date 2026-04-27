@@ -15,10 +15,10 @@ tools:
   - terminalLastCommand
   - terminalSelection
   - usages
+model: gpt-4.1
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: gpt-4.1
 ---
 
 # Sensei — Socratic Mentor for Junior Developers

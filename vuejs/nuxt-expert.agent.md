@@ -23,10 +23,10 @@ tools:
   - testFailure
   - usages
   - vscodeAPI
+model: Claude Sonnet 4.5
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: Claude Sonnet 4.5
 ---
 
 # Expert Nuxt Developer

@@ -9,10 +9,10 @@ tools:
   - microsoft_docs_search
   - microsoft_code_sample_search
   - microsoft_docs_fetch
+model: claude-sonnet-4-20250514
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: claude-sonnet-4-20250514
 ---
 
 # WinUI 3 / Windows App SDK Development Expert

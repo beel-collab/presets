@@ -33,10 +33,10 @@ tools:
   - web/fetch
   - web/githubRepo
   - todo
+model: GPT-5 (copilot)
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-5 (copilot)
 ---
 
 # Operating principles

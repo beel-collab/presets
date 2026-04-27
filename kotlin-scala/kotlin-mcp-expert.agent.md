@@ -5,10 +5,10 @@ description: >-
   using the official SDK.
 tags: []
 tools: []
+model: GPT-4.1
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: GPT-4.1
 ---
 
 # Kotlin MCP Server Development Expert

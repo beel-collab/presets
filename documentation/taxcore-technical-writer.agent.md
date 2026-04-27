@@ -10,10 +10,10 @@ description: >-
 tags: []
 tools:
   - codebase
+model: claude-sonnet-4.6
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: claude-sonnet-4.6
 ---
 
 # TaxCore Technical Writer

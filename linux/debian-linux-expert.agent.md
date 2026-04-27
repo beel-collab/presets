@@ -10,10 +10,10 @@ tools:
   - terminalCommand
   - runCommands
   - edit/editFiles
+model: Claude Sonnet 4
 author:
   name: Community
   url: 'https://github.com/beel-collab/presets.dev'
-model: Claude Sonnet 4
 ---
 
 # Debian Linux Expert
